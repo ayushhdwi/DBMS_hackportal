@@ -1,6 +1,6 @@
-#Hackportal
+# Hackportal
 
-##Introduction
+## Introduction
 
 Our DBMS project is a database for a portal for hackathons
 that makes it easy for organisations to conduct hackathons
@@ -138,7 +138,7 @@ about each prize.
 - Delete prize information for the hackathon : Organizers can delete information of various prizes from a sponsor for the hackathon.
 - Delete prize winners for the hackathon : Organizers can delete information of various prizes from a sponsor for the hackathon.
 ___
-##About
+## About
 This was submitted under course **Database Management System (ITE1003)**.
 Faculty: **Bimal Kumar Ray**
 Team: **Yash Singhal(19BIT0136), Ayush Dwivedi(19BIT0236)** 
